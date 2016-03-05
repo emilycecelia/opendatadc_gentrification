@@ -1,0 +1,74 @@
+[
+  {
+    "Ward":1,
+    "2013 Enrollment":4828,
+    "2014 Enrollment":5306,
+    "2015 Enrollment":5356,
+    "2013 Budget":54471745.75,
+    "2014 Budget":62440273.38,
+    "2015 Budget":52130442.41
+  },
+  {
+    "Ward":2,
+    "2013 Enrollment":2648,
+    "2014 Enrollment":2941,
+    "2015 Enrollment":2902,
+    "2013 Budget":27387492.83,
+    "2014 Budget":31971475.14,
+    "2015 Budget":35313547
+  },
+  {
+    "Ward":3,
+    "2013 Enrollment":6461,
+    "2014 Enrollment":6860,
+    "2015 Enrollment":6918,
+    "2013 Budget":58945646.95,
+    "2014 Budget":63924965.32,
+    "2015 Budget":67185484
+  },
+  {
+    "Ward":4,
+    "2013 Enrollment":6048,
+    "2014 Enrollment":6616,
+    "2015 Enrollment":6733,
+    "2013 Budget":67580484.08,
+    "2014 Budget":76960490.04,
+    "2015 Budget":90138114.53
+  },
+  {
+    "Ward":5,
+    "2013 Enrollment":4817,
+    "2014 Enrollment":4944,
+    "2015 Enrollment":4653,
+    "2013 Budget":51062821.07,
+    "2014 Budget":56914369.87,
+    "2015 Budget":71724590.02
+  },
+  {
+    "Ward":6,
+    "2013 Enrollment":6311,
+    "2014 Enrollment":6753,
+    "2015 Enrollment":7231,
+    "2013 Budget":66594873.97,
+    "2014 Budget":76205918.54,
+    "2015 Budget":86189244.51
+  },
+  {
+    "Ward":7,
+    "2013 Enrollment":5251,
+    "2014 Enrollment":5464,
+    "2015 Enrollment":5590,
+    "2013 Budget":55047940.74,
+    "2014 Budget":65761519.47,
+    "2015 Budget":69116623.26
+  },
+  {
+    "Ward":8,
+    "2013 Enrollment":7548,
+    "2014 Enrollment":7773,
+    "2015 Enrollment":8209,
+    "2013 Budget":75531380.32,
+    "2014 Budget":89070510.1,
+    "2015 Budget":92302521.45
+  }
+]
